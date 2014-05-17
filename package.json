@@ -1,0 +1,31 @@
+{
+  "name": "display.css",
+  "version": "0.0.1",
+  "homepage": "http://mrmrs.github.io/display",
+  "description": "CSS module that includes a comprehensive set of display classes name spaced to three separate breakpoints.",
+  "keywords": [
+    "oocss",
+    "css",
+    "display",
+    "mobile first",
+    "rwd",
+    "responsive design",
+    "design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/display.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/display/issues"
+  },
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "adam morse", "email": "hi@mrmrs.cc" }
+  ],
+  "license": "MIT"
+}
